@@ -1,0 +1,1 @@
+{"version":3,"file":"SpFxHttpClient.d.ts","sourceRoot":"","sources":["../../../../src/webparts/spFxHttpClient/components/SpFxHttpClient.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,OAAO,EAAE,oBAAoB,EAAE,MAAM,wBAAwB,CAAC;AAG9D,MAAM,CAAC,OAAO,OAAO,cAAe,SAAQ,KAAK,CAAC,SAAS,CAAC,oBAAoB,EAAE,EAAE,CAAC;IAC5E,MAAM,IAAI,KAAK,CAAC,YAAY,CAAC,oBAAoB,CAAC;CA8B1D"}
